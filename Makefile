@@ -13,6 +13,9 @@ publish:
 brain-games:
 	poetry run brain-games
 
+brain-even:
+	poetry run bran-even
+
 lint:
 	poetry run flake8 brain_games
 
